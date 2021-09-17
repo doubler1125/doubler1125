@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @doubler1125
-- 👀 I’m interested in coding
+- 👀 I’m in coding
 
 <!---
 doubler1125/doubler1125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
